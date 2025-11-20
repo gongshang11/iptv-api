@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-11-20 06:28:48,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2025-11-20 18:32:50,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 中央频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -538,6 +538,7 @@ CETV-4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/51/20240709/index.m3u8
 三沙卫视,https://stream1.freetv.fun/8bd6b69c423ac31e71c2311ad33f4f291e1314c69005ffb7b3b7defc2944adb2.m3u8
 三沙卫视,https://stream1.freetv.fun/san-sha-wei-shi-5.m3u8
 三沙卫视,https://migu.188766.xyz/?migutoken=0bec68181b84df9288562c8c166cd499&id=hn_ssws&type=sz
+三沙卫视,https://migu.188766.xyz/?migutoken=0f9917d89be760f56f92272735be3b69&id=hn_ssws&type=sz
 天津卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226459
 天津卫视,http://j.x.bkpcp.top/jx/TIANJHD
 天津卫视,http://dsk.cc/php/xxtv.php?id=tjws
@@ -698,6 +699,7 @@ Viutv,http://php.jdshipin.com:8880/PLTV/iptv.php?id=viutv
 东森洋片,https://live.catvod.com/live.php?id=ettvwestern&token=5e2cbbb7deb7d1b42f976b2d848ee5da6d09fa84744e0c7aaadd7dbe6ea33dca%3A1761268460%3AMTcyLjIwMC4xODMuMjQx
 东森洋片,https://live.catvod.com/live.php?id=ettvwestern&token=9b66dc4f4ffc47ae01aa9f7484753c8ee9002debf9cb3073fcabdff8976e77f5%3A1763428767%3ANDAuMTE2LjkyLjEyMw%3D%3D
 东森洋片,https://live.catvod.com/live.php?id=ettvwestern&token=4fd40788539adf911dd0e8ee73a8f0447e59520f661d6f331bbe9d5e8844ab2a%3A1763515103%3AMTcyLjE4NC4xNzMuMjQz
+东森洋片,https://live.catvod.com/live.php?id=ettvwestern&token=6e7b55e1668795a0c1e33b232844e490bc718eb5fce90a01b1603075ac11afad%3A1763601523%3ANTIuMTczLjE2My4xMzA%3D
 
 电影频道,#genre#
 CHC家庭影院,http://z.b.bkpcp.top/m.php?id=chcjtyy
