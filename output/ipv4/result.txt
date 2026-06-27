@@ -1,35 +1,35 @@
 🕘️更新时间,#genre#
-2026-06-27 19:40:54,https://iptv.catvod.com/catvod?id=CCTV2&line=5
+2026-06-28 07:10:42,https://iptv.catvod.com/catvod?id=CCTV2&line=5
 
 中央频道,#genre#
 CCTV-2,https://iptv.catvod.com/catvod?id=CCTV2&line=5
-CCTV-2,https://iptv.catvod.com/catvod?id=CCTV2&line=2
 CCTV-2,https://iptv.catvod.com/catvod?id=CCTV2&line=1
 CCTV-2,https://iptv.catvod.com/catvod?id=CCTV2&line=4
+CCTV-2,https://iptv.catvod.com/catvod?id=CCTV2&line=2
+CCTV-3,https://iptv.catvod.com/catvod?id=CCTV3&line=6
 CCTV-3,https://iptv.catvod.com/catvod?id=CCTV3&line=7
 CCTV-3,https://iptv.catvod.com/catvod?id=CCTV3&line=9
-CCTV-3,https://iptv.catvod.com/catvod?id=CCTV3&line=6
-CCTV-4,https://iptv.catvod.com/catvod?id=CCTV4&line=10
-CCTV-4,https://iptv.catvod.com/catvod?id=CCTV4&line=9
 CCTV-4,https://iptv.catvod.com/catvod?id=CCTV4&line=12
 CCTV-4,https://iptv.catvod.com/catvod?id=CCTV-4%E9%AB%98%E6%B8%85&line=1
-CCTV-4,https://iptv.catvod.com/catvod?id=CCTV4&line=6
+CCTV-4,https://iptv.catvod.com/catvod?id=CCTV4&line=10
 CCTV-4,https://iptv.catvod.com/catvod?id=CCTV4&line=8
+CCTV-4,https://iptv.catvod.com/catvod?id=CCTV4&line=6
+CCTV-4,https://iptv.catvod.com/catvod?id=CCTV4&line=9
 CCTV-6,http://www.negative.top:50000/rtp/233.50.200.109:5140
 CCTV-7,https://iptv.catvod.com/catvod?id=CCTV7&line=2
-CCTV-8,https://iptv.catvod.com/catvod?id=CCTV8&line=13
 CCTV-8,https://iptv.catvod.com/catvod?id=CCTV8&line=16
 CCTV-8,https://iptv.catvod.com/catvod?id=CCTV8%E7%94%B5%E8%A7%86%E5%89%A7&line=1
-CCTV-8,https://iptv.catvod.com/catvod?id=CCTV8&line=12
 CCTV-8,https://iptv.catvod.com/catvod?id=CCTV8K%E8%B6%85%E9%AB%98%E6%B8%85&line=1
+CCTV-8,https://iptv.catvod.com/catvod?id=CCTV8&line=13
+CCTV-8,https://iptv.catvod.com/catvod?id=CCTV8&line=12
 CCTV-9,http://198.204.228.26/live/cctv9hd.m3u8
 CCTV-10,https://iptv.catvod.com/catvod?id=CCTV10&line=6
 CCTV-10,https://iptv.catvod.com/catvod?id=CCTV10&line=11
 CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
 CCTV-11,http://www.negative.top:50000/rtp/233.50.200.132:5140
 CCTV-13,https://iptv.catvod.com/catvod?id=CCTV13&line=10
-CCTV-14,https://iptv.catvod.com/catvod?id=CCTV14&line=8
 CCTV-14,https://iptv.catvod.com/catvod?id=CCTV14&line=7
+CCTV-14,https://iptv.catvod.com/catvod?id=CCTV14&line=8
 CCTV-15,https://iptv.catvod.com/catvod?id=CCTV15%E9%9F%B3%E4%B9%90&line=1
 CCTV-16,https://iptv.catvod.com/catvod?id=CCTV16&line=1
 
@@ -41,13 +41,12 @@ CCTV-16,https://iptv.catvod.com/catvod?id=CCTV16&line=1
 安徽卫视,http://satellitepull.cnr.cn/live/wxahws/playlist.m3u8
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#mitv://generationnexxxt.com:19806/7bf4b3a65eaf421ab6d71bd8dcc4547a
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
-湖南卫视,http://204.12.221.218:8181/3m1080p/hnws.m3u8
-北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 北京卫视,http://198.204.228.26/live/bjwshd.m3u8
+北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 黑龙江卫视,http://204.12.221.218:8181/3m1080p/hljws.m3u8
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
-贵州卫视,http://satellitepull.cnr.cn/live/wx32gzws/playlist.m3u8
 贵州卫视,http://192.151.150.154/live/gzwshd.m3u8
+贵州卫视,http://satellitepull.cnr.cn/live/wx32gzws/playlist.m3u8
 海南卫视,http://www.negative.top:50000/rtp/233.50.200.165:5140
 河北卫视,http://192.151.150.154/live/hewshd.m3u8
 河北卫视,http://204.12.221.218:8181/3m1080p/hews.m3u8
@@ -63,7 +62,6 @@ CCTV-16,https://iptv.catvod.com/catvod?id=CCTV16&line=1
 四川卫视,https://iptv.catvod.com/catvod?id=%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%86&line=2
 四川卫视,http://satellitepull.cnr.cn/live/wxscws/playlist.m3u8
 云南卫视,https://hwapi.yntv.net/ew265l/z1z6s5.m3u8
-云南卫视,http://fuxin.yunjifei.top:999/tsfile/live/0119_1.m3u8?key=txiptv
 
 港·澳·台,#genre#
 翡翠台,rtmp://oc-play-ali.vipkid.com.cn/live/xianajiaoge-fct
