@@ -1,18 +1,17 @@
 🕘️更新时间,#genre#
-2026-07-10 07:19:50,http://drive.mxmy.net:8888/udp/239.3.1.214:4220
+2026-07-10 20:31:46,http://drive.mxmy.net:8888/udp/239.3.1.214:4220
 
 中央频道,#genre#
 CCTV-4,http://drive.mxmy.net:8888/udp/239.3.1.214:4220
-CCTV-5+,http://182.37.41.46:8154/tsfile/live/0016_1.m3u8?key=txiptv
-CCTV-6,http://204.12.221.218:8181/3m1080p/cctv6.m3u8
 CCTV-6,http://www.negative.top:50000/rtp/233.50.200.109:5140
 CCTV-7,http://drive.mxmy.net:8888/udp/239.3.1.61:8104
 CCTV-9,http://198.204.228.26/live/cctv9hd.m3u8
 CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
 CCTV-10,https://hwapi.yntv.net/ew265l/z1z6s5.m3u8
-CCTV-11,http://182.37.41.46:8154/tsfile/live/0011_1.m3u8?key=txiptv
+CCTV-11,http://drive.mxmy.net:8888/udp/239.3.1.152:8120
 CCTV-11,http://www.negative.top:50000/rtp/233.50.200.132:5140
 CCTV-14,http://drive.mxmy.net:8888/udp/239.3.1.65:8132
+CCTV-15,http://182.37.41.46:8154/tsfile/live/0015_1.m3u8?key=txiptv
 CCTV-17,http://drive.mxmy.net:8888/udp/239.3.1.188:8001
 
 央视频道,#genre#
@@ -22,13 +21,14 @@ CCTV-17,http://drive.mxmy.net:8888/udp/239.3.1.188:8001
 卫视频道,#genre#
 安徽卫视,http://satellitepull.cnr.cn/live/wxahws/playlist.m3u8
 安徽卫视,http://drive.mxmy.net:8888/udp/239.3.1.211:8064
+浙江卫视,http://182.37.41.46:8154/tsfile/live/0124_1.m3u8?key=txiptv
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#mitv://generationnexxxt.com:19806/7bf4b3a65eaf421ab6d71bd8dcc4547a
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 湖北卫视,http://192.151.150.154/live/hbwshd.m3u8
 重庆卫视,http://drive.mxmy.net:8888/udp/239.3.1.122:8160
-东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
 东南卫视,http://204.12.221.218:8181/3m1080p/dnws.m3u8
+东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
 东南卫视,http://drive.mxmy.net:8888/udp/239.3.1.156:8148
 贵州卫视,http://satellitepull.cnr.cn/live/wx32gzws/playlist.m3u8
 贵州卫视,http://192.151.150.154/live/gzwshd.m3u8
@@ -42,7 +42,6 @@ CCTV-17,http://drive.mxmy.net:8888/udp/239.3.1.188:8001
 江西卫视,http://drive.mxmy.net:8888/udp/239.3.1.123:8164
 辽宁卫视,http://192.151.150.154/live/lnwshd.m3u8
 辽宁卫视,http://drive.mxmy.net:8888/udp/239.3.1.210:8056
-辽宁卫视,http://101.66.198.163:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=0&authid=0
 内蒙古卫视,http://satellitepull.cnr.cn/live/wx32nmgws/playlist.m3u8
 宁夏卫视,http://satellitepull.cnr.cn/live/wxnxws/playlist.m3u8
 青海卫视,http://satellitepull.cnr.cn/live/wx32qhws/playlist.m3u8
