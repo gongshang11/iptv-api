@@ -1,11 +1,12 @@
 🕘️更新时间,#genre#
-2026-07-12 19:18:21,http://drive.mxmy.net:8888/udp/239.3.1.60:8084
+2026-07-13 06:57:57,http://drive.mxmy.net:8888/udp/239.3.1.60:8084
 
 中央频道,#genre#
 CCTV-2,http://drive.mxmy.net:8888/udp/239.3.1.60:8084
-CCTV-4,http://drive.mxmy.net:8888/udp/239.3.1.213:4220
 CCTV-4,http://drive.mxmy.net:8888/udp/239.3.1.214:4220
+CCTV-4,http://drive.mxmy.net:8888/udp/239.3.1.213:4220
 CCTV-5,http://drive.mxmy.net:8888/udp/239.3.1.173:8001
+CCTV-6,http://drive.mxmy.net:8888/udp/239.3.1.174:8001
 CCTV-6,http://www.negative.top:50000/rtp/233.50.200.109:5140
 CCTV-7,http://drive.mxmy.net:8888/udp/239.3.1.61:8104
 CCTV-8,http://drive.mxmy.net:8888/udp/239.3.1.175:8001
@@ -32,8 +33,8 @@ CCTV-17,http://drive.mxmy.net:8888/udp/239.3.1.188:8001
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 湖北卫视,http://192.151.150.154/live/hbwshd.m3u8
 重庆卫视,http://drive.mxmy.net:8888/udp/239.3.1.122:8160
-东南卫视,http://204.12.221.218:8181/3m1080p/dnws.m3u8
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
+东南卫视,http://204.12.221.218:8181/3m1080p/dnws.m3u8
 东南卫视,http://drive.mxmy.net:8888/udp/239.3.1.156:8148
 贵州卫视,http://192.151.150.154/live/gzwshd.m3u8
 贵州卫视,http://satellitepull.cnr.cn/live/wx32gzws/playlist.m3u8
@@ -49,8 +50,8 @@ CCTV-17,http://drive.mxmy.net:8888/udp/239.3.1.188:8001
 内蒙古卫视,http://satellitepull.cnr.cn/live/wx32nmgws/playlist.m3u8
 宁夏卫视,http://satellitepull.cnr.cn/live/wxnxws/playlist.m3u8
 青海卫视,http://satellitepull.cnr.cn/live/wx32qhws/playlist.m3u8
-山东卫视,http://198.204.228.26/live/sdwshd.m3u8
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
+山东卫视,http://198.204.228.26/live/sdwshd.m3u8
 山东卫视,http://drive.mxmy.net:8888/udp/239.3.1.209:8052
 山西卫视,http://satellitepull.cnr.cn/live/wxssxws/playlist.m3u8
 
