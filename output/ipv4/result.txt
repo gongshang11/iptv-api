@@ -1,11 +1,13 @@
 🕘️更新时间,#genre#
-2026-07-13 06:57:57,http://drive.mxmy.net:8888/udp/239.3.1.60:8084
+2026-07-13 20:36:44,http://drive.mxmy.net:8888/udp/239.3.1.60:8084
 
 中央频道,#genre#
 CCTV-2,http://drive.mxmy.net:8888/udp/239.3.1.60:8084
-CCTV-4,http://drive.mxmy.net:8888/udp/239.3.1.214:4220
 CCTV-4,http://drive.mxmy.net:8888/udp/239.3.1.213:4220
+CCTV-4,http://drive.mxmy.net:8888/udp/239.3.1.214:4220
 CCTV-5,http://drive.mxmy.net:8888/udp/239.3.1.173:8001
+CCTV-5+,http://153.0.171.163:85/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-5+,http://drive.mxmy.net:8888/udp/239.3.1.130:8004
 CCTV-6,http://drive.mxmy.net:8888/udp/239.3.1.174:8001
 CCTV-6,http://www.negative.top:50000/rtp/233.50.200.109:5140
 CCTV-7,http://drive.mxmy.net:8888/udp/239.3.1.61:8104
@@ -36,8 +38,8 @@ CCTV-17,http://drive.mxmy.net:8888/udp/239.3.1.188:8001
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
 东南卫视,http://204.12.221.218:8181/3m1080p/dnws.m3u8
 东南卫视,http://drive.mxmy.net:8888/udp/239.3.1.156:8148
-贵州卫视,http://192.151.150.154/live/gzwshd.m3u8
 贵州卫视,http://satellitepull.cnr.cn/live/wx32gzws/playlist.m3u8
+贵州卫视,http://192.151.150.154/live/gzwshd.m3u8
 贵州卫视,http://drive.mxmy.net:8888/udp/239.3.1.149:8076
 海南卫视,http://www.negative.top:50000/rtp/233.50.200.165:5140
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
@@ -66,8 +68,8 @@ CHC高清电影,http://dassby.qqff.top:99/live/CHC高清/index.m3u8
 CHC高清电影,rtsp://115.153.247.80/PLTV/88888888/224/3221226990/86128784.smil
 CHC高清电影,rtsp://115.153.230.145/PLTV/88888888/224/3221226990/86128784.smil
 CHC高清电影,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226990/86128784.smil
-NewTV惊悚悬疑,https://live.264788.xyz/channel/newtvjingsongxuanyi?streamid=082a2e30e260e629bde8f58d4861bee0&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 NewTV惊悚悬疑,https://live.264788.xyz/channel/newtvjingsongxuanyi?streamid=cefe64289cde2680e596ee3c1c6a4bf2&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+NewTV惊悚悬疑,https://live.264788.xyz/channel/newtvjingsongxuanyi?streamid=082a2e30e260e629bde8f58d4861bee0&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 IPTV经典电影,http://183.220.107.138:4022/rtp/239.10.0.122:5140
 
 动画频道,#genre#
