@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-10-30 00:49:24,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2026-10-30 09:47:58,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 中央频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -92,8 +92,6 @@ CCTV-8,https://migu.188766.xyz/?migutoken=ff4d9fd2b8938d2880cfbe97af5b01dc&id=CC
 CCTV-8,http://gslbmgsplive.miguvideo.com/wd_r2/2018/ocn/cctv8hd/2000/index.m3u8?msisdn=20251118080046f0fa6dafec3f4cb8a663dcc675015886&mdspid=&spid=699004&netType=0&sid=5500212868&pid=2028597139&timestamp=20251118080046&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=624878356&ParentNodeID=-99&assertID=5500212868&client_ip=106.13.250.90&SecurityKey=20251118080046&promotionId=&mvid=5100001695&mcid=500020&playurlVersion=WX-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=83f7c78530f149505fdd1ff862463319&ddCalcu=9813e3f13746c047286583f0ff11d4d9f550
 CCTV-8,https://iptv.catvod.com/live.php?id=cctv8
 CCTV-8,https://hls-gateway.vpstv.net/streams/476892.m3u8
-CCTV-9,https://v4-e6b1c5baf4e240fe63adbf68dda23435.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=027139c7cf4563ddf379b1e51dd3c65e
-CCTV-9,https://v4-702cae17a28d6e4f0c0002bba021d934.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=57d222d3642ec9daafd19c49f8cb7cb5
 CCTV-9,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225734
 CCTV-9,http://iptv.huuc.edu.cn/hls/cctv9hd.m3u8
 CCTV-9,https://live.chinacert.cftest5.cn/mg/?id=673168140
@@ -102,6 +100,8 @@ CCTV-9,https://migu.188766.xyz/?migutoken=5207f284c27bb3abe1a3b6d4962a71be&id=CC
 CCTV-9,http://gslbmgsplive.miguvideo.com/migu/kailu/20200324/cctv9hd/51/index.m3u8?msisdn=202511180800462f996265c4274be891173591369f8c58&mdspid=&spid=699004&netType=0&sid=5501083624&pid=2028597139&timestamp=20251118080046&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=673168140&ParentNodeID=-99&assertID=5501083624&client_ip=106.13.250.90&SecurityKey=20251118080046&promotionId=&mvid=5102910384&mcid=500020&playurlVersion=WX-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=2ae733815b79c16ef590a917bd4feac2&ddCalcu=22caeae1e73f3043d8b1751b97a90c9156fe
 CCTV-9,https://iptv.catvod.com/live.php?id=cctv9
 CCTV-9,https://hls-gateway.vpstv.net/streams/476893.m3u8
+CCTV-9,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
+CCTV-9,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226944/1.m3u8?
 CCTV-10,https://hwapi.yntv.net/ew265l/z1z6s5.m3u8
 CCTV-10,http://z.b.bkpcp.top/m.php?id=CCTV-10科教科教
 CCTV-10,http://goo.bkpcp.top/mg/cctv10
